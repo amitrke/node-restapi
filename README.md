@@ -2,6 +2,7 @@
 
 ## Initial setup
 
+
 npx express-generator --view=pug .
 
 ### Install dependencies
