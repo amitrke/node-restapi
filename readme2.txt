@@ -8,13 +8,13 @@ npx express-generator --view=pug .
 ### Install dependencies
 npm install
 
-### Run the server
-npm run start
+### ~ these run on the server
+npm ~ start
 
-## Docker
+## D~er
 
-### Build image
-docker build -t myapp .
+### ~ld image
+dock~build -t myapp .
 
-### Run the image
-docker run -p 3000:3000 -d myapp
+### ~ the image
+dock~run -p 3000:3000 -d myapp
